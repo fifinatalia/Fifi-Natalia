@@ -3,9 +3,8 @@
 Hi! I'm Fifi. Welcome to my GitHub profile! 
 
 ### ✨ Something about Me
-* 🙋🏻‍♀️ I'm a final student that enthusiastic with data. 
+* 🙋🏻‍♀️ As a student majoring in mathematics, I am interested in material that discusses analyzing data. I really like the challenge of solving math problems. This is what makes me even more enthusiastic about learning about data analyst.
 * 📝 I started my journey to Data Analysis since graduate from uni and I really really like and enjoy to learn more about SQL, MySQL, Tableau, Power BI, and anything that related to analysis tools.
-* 🚚 I've worked in the Logisitcs field for a while before realising my passion for data
 * ✍️ To improve my skill, im doing some project with study case and real data from kaggle. 
 
 ### 📚 Currently Learning
