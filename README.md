@@ -1,4 +1,4 @@
-## Introducing
+### 🙌🏻 Introducing
 
 Hi! I'm Fifi. Welcome to my GitHub profile! 
 
