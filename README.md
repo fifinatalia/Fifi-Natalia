@@ -18,6 +18,7 @@ Hi! I'm Fifi. Welcome to my GitHub profile!
 
 ### 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/fifinatalia)
+- [Tableau](https://public.tableau.com/app/profile/fifi5043)
 
 💡 These are the quotes that make me enthusiastic in learning and processing data
 
