@@ -20,6 +20,7 @@ Hi! I'm Fifi. Welcome to my GitHub profile!
 - [LinkedIn](https://www.linkedin.com/in/fifinatalia)
 
 💡 These are the quotes that make me enthusiastic in learning and processing data
+
 “Data analytics is the future, and the future is NOW! Every mouse click, keyboard button press, swipe or tap is used to shape business decisions. Everything is about data these days. Data is information, and information is power.”
 ~ Radi, data analyst at CENTOGENE
 
